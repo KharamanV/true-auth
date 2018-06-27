@@ -1,6 +1,6 @@
 {
   "name": "true-auth",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Social OAuth2 Authentication for the JS SPA applications",
   "main": "./dist/index",
   "author": "Vladimir Kharaman <kharaman.v@gmail.com>",
