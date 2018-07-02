@@ -1,10 +1,21 @@
 {
   "name": "true-auth",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Social OAuth2 Authentication for the JS SPA applications",
   "main": "./dist/index",
   "author": "Vladimir Kharaman <kharaman.v@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "oAuth",
+    "oAuth2",
+    "auth",
+    "SPA Auth",
+    "client auth"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KharamanV/true-auth.git"
+  },
   "devDependencies": {
     "typescript": "^2.9.2"
   },
