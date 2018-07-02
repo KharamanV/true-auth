@@ -1,6 +1,6 @@
 {
   "name": "true-auth",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Social OAuth2 Authentication for the JS SPA applications",
   "main": "./dist/index",
   "author": "Vladimir Kharaman <kharaman.v@gmail.com>",
@@ -9,7 +9,7 @@
     "typescript": "^2.9.2"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --traceResolution",
     "deploy": "yarn build && yarn publish"
   },
   "dependencies": {}
